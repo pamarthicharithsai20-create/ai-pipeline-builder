@@ -151,21 +151,6 @@ http://127.0.0.1:8000
 
 ---
 
-## 📸 Screenshots
-
-Create a folder named `screenshots` and add images of your project.
-
-Example:
-
-```markdown
-![Pipeline Builder](screenshots/home.png)
-
-![Workflow](screenshots/workflow.png)
-
-![Validation](screenshots/result.png)
-```
-
----
 
 ## 🎯 Learning Outcomes
 
